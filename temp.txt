@@ -1,0 +1,16 @@
+gp 120 = 648 ✅
+gp 119 =517 ✅
+gp 150 = 775 ✅
+gp 200 = 125 ✅
+magdalena = 200 ✅
+gp 305 = 23 ✅
+
+domo abn 10 = 25
+abn 6 = 25
+cup cake individual = 500
+
+vasos 12onzas = 1113 ✅
+vasos 9 onzas = 900 ✅
+aluminio 2058 = 213 ✅
+aluminio 2061 = 260 ✅
+aluminio 394 = 5 ✅

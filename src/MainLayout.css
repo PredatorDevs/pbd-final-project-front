@@ -1,0 +1,57 @@
+.logo {
+  height: auto;
+  margin: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  /* background: #2f54eb; */
+}
+
+.site-sider {
+  overflow-y: auto;
+  max-height: 100vh;
+}
+
+.site-layout {
+  /* overflow-y: auto; */
+  max-height: 100vh;
+}
+
+.site-sider::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+}
+.site-sider::-webkit-scrollbar-track {
+  border-radius: 3px;
+}
+.site-sider::-webkit-scrollbar-thumb {
+  background: #221D47;
+  width: 3px;
+  height: 3px;
+  border-radius: 3px;
+}
+
+.site-layout-content {
+  overflow-y: scroll;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.site-layout-content::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+}
+.site-layout-content::-webkit-scrollbar-track {
+  border-radius: 3px;
+}
+.site-layout-content::-webkit-scrollbar-thumb {
+  background: #e6f4ff;
+  width: 3px;
+  height: 3px;
+  border-radius: 3px;
+}
